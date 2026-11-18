@@ -1,0 +1,13 @@
+﻿test_row_index,image_file,category,question,correct_answer
+0,test_0000_open_1.png,Open-ended,"what are positively charged, thus allowing the compaction of the negatively charged dna?",the histone subunits
+1,test_0001_open_2.png,Open-ended,how are the histone subunits charged?,positively charged
+2,test_0002_open_3.png,Open-ended,"what is showing increased eosinophilia of cytoplasm, and swelling of occasional cells?",early (reversible) ischemic injury
+3,test_0003_yesno_1.png,Yes/No,does mycobacterium avium infection in a duodenal biopsy from a patient with aids show massive intracellular macrophage infection with acid-fast organisms filamentous and pink in this acid-fast stain preparation?,yes
+4,test_0004_open_4.png,Open-ended,what shows branching papillae having flbrovascular stalk covered by a single layer of cuboidal cells having ground-glass nuclei?,microscopy
+5,test_0005_yesno_2.png,Yes/No,does microscopy show branching papillae having flbrovascular stalk covered by a single layer of cuboidal cells having ground-glass nuclei?,yes
+6,test_0006_yesno_3.png,Yes/No,does pbf show branching papillae having flbrovascular stalk covered by a single layer of cuboidal cells having ground-glass nuclei?,no
+7,test_0007_open_5.png,Open-ended,what is involvedd in pathogenesis of two main types of diabetes mellitus?,chematic mechanisms
+8,test_0008_open_6.png,Open-ended,what is chematic mechanisms involved in?,pathogenesis of two main types of diabetes mellitus
+9,test_0009_yesno_4.png,Yes/No,is chematic mechanisms involved in pathogenesis of two main types of diabetes mellitus?,yes
+10,test_0010_yesno_5.png,Yes/No,are numbers in the illustrations involved in pathogenesis of two main types of diabetes mellitus?,no
+14,test_0014_yesno_6.png,Yes/No,are there inadequate t cells to mount a granulomatous response?,yes
